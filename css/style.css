@@ -83,7 +83,7 @@ label {
 }
 
 .w3-logo a {
-	color:#8bb8bd;
+	color:#ffffff;
 	font-size: 1.1em;
 	text-decoration: none;
 	text-transform: capitalize;
@@ -507,7 +507,7 @@ h5.title-w3 span {
 
 .para-agileits-w3layouts {
 	font-size: 15px;
-	color:#fff;
+	color:rgb(8, 8, 8);
 	letter-spacing: .8px;
 	line-height: 30px;
 }
@@ -522,7 +522,7 @@ h5.title-w3 span {
 	color: #fff;
 	padding: 10px 20px;
 	font-size: 15px;
-	background: #000;
+	background: rgb(250, 0, 0);
 	text-decoration: none;
 	text-transform: capitalize;
 	letter-spacing: .5px;
@@ -547,7 +547,7 @@ h5.title-w3 span {
 /*--about --*/
 
 h3.subheading-agileits-w3layouts {
-	color: #47cf73;
+	color: #f7f7f7;
 	font-size: 25px;
 	letter-spacing: 1px;
 	margin-bottom: 0.5em;
@@ -613,7 +613,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .services-grids a {
-	color: #47cf73;
+	color: #030303;
 	font-size: 2em;
 	margin: 0.8em 0 0;
 }
@@ -651,7 +651,7 @@ h3.subheading-agileits-w3layouts {
 
 .person-info-agileits-w3layouts {
 	padding: 3em;
-	background: #47cf73;
+	background: #000000;
 	position: absolute;
 	left: 3em;
 	top: 4.4em;
